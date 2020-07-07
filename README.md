@@ -5,10 +5,15 @@ ghpythonlib.components as ghpc で、アドオンも呼び出せるっぽい。
 WeaverBird は確認済み。  
 
 
+---  
+
+
+#### ghpythonlib.components  
+
+これで。  
 
 ```python
 import ghpythonlib.components as ghpc
-
 
 
 ### WeaverBird Mesh
